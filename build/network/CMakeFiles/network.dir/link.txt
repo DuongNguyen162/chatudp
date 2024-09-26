@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnetwork.a CMakeFiles/network.dir/__/src/network/NetworkMessage.cpp.o CMakeFiles/network.dir/__/src/network/TcpAcceptor.cpp.o CMakeFiles/network.dir/__/src/network/TcpClient.cpp.o CMakeFiles/network.dir/__/src/network/TcpConnector.cpp.o CMakeFiles/network.dir/__/src/network/UdpSocket.cpp.o
+/usr/bin/ranlib libnetwork.a

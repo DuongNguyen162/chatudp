@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/client.dir/__/src/client/TcpUser.cpp.o CMakeFiles/client.dir/__/src/client/main.cpp.o -o client  /usr/lib/x86_64-linux-gnu/libboost_system.so.1.74.0 ../core/libcore.a ../network/libnetwork.a 

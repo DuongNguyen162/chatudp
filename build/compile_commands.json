@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/home/nguyenduong/Desktop/chatudp/build/core",
+  "command": "/usr/bin/g++ -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/nguyenduong/Desktop/chatudp/includes/core -I/home/nguyenduong/Desktop/chatudp/core/. -g -std=c++17 -o CMakeFiles/core.dir/__/src/core/RFC5389Builder.cpp.o -c /home/nguyenduong/Desktop/chatudp/src/core/RFC5389Builder.cpp",
+  "file": "/home/nguyenduong/Desktop/chatudp/src/core/RFC5389Builder.cpp"
+},
+{
+  "directory": "/home/nguyenduong/Desktop/chatudp/build/network",
+  "command": "/usr/bin/g++ -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/nguyenduong/Desktop/chatudp/includes -I/home/nguyenduong/Desktop/chatudp/includes/network -I/home/nguyenduong/Desktop/chatudp/network/. -g -std=c++17 -o CMakeFiles/network.dir/__/src/network/NetworkMessage.cpp.o -c /home/nguyenduong/Desktop/chatudp/src/network/NetworkMessage.cpp",
+  "file": "/home/nguyenduong/Desktop/chatudp/src/network/NetworkMessage.cpp"
+},
+{
+  "directory": "/home/nguyenduong/Desktop/chatudp/build/network",
+  "command": "/usr/bin/g++ -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/nguyenduong/Desktop/chatudp/includes -I/home/nguyenduong/Desktop/chatudp/includes/network -I/home/nguyenduong/Desktop/chatudp/network/. -g -std=c++17 -o CMakeFiles/network.dir/__/src/network/TcpAcceptor.cpp.o -c /home/nguyenduong/Desktop/chatudp/src/network/TcpAcceptor.cpp",
+  "file": "/home/nguyenduong/Desktop/chatudp/src/network/TcpAcceptor.cpp"
+},
+{
+  "directory": "/home/nguyenduong/Desktop/chatudp/build/network",
+  "command": "/usr/bin/g++ -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/nguyenduong/Desktop/chatudp/includes -I/home/nguyenduong/Desktop/chatudp/includes/network -I/home/nguyenduong/Desktop/chatudp/network/. -g -std=c++17 -o CMakeFiles/network.dir/__/src/network/TcpClient.cpp.o -c /home/nguyenduong/Desktop/chatudp/src/network/TcpClient.cpp",
+  "file": "/home/nguyenduong/Desktop/chatudp/src/network/TcpClient.cpp"
+},
+{
+  "directory": "/home/nguyenduong/Desktop/chatudp/build/network",
+  "command": "/usr/bin/g++ -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/nguyenduong/Desktop/chatudp/includes -I/home/nguyenduong/Desktop/chatudp/includes/network -I/home/nguyenduong/Desktop/chatudp/network/. -g -std=c++17 -o CMakeFiles/network.dir/__/src/network/TcpConnector.cpp.o -c /home/nguyenduong/Desktop/chatudp/src/network/TcpConnector.cpp",
+  "file": "/home/nguyenduong/Desktop/chatudp/src/network/TcpConnector.cpp"
+},
+{
+  "directory": "/home/nguyenduong/Desktop/chatudp/build/network",
+  "command": "/usr/bin/g++ -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/nguyenduong/Desktop/chatudp/includes -I/home/nguyenduong/Desktop/chatudp/includes/network -I/home/nguyenduong/Desktop/chatudp/network/. -g -std=c++17 -o CMakeFiles/network.dir/__/src/network/UdpSocket.cpp.o -c /home/nguyenduong/Desktop/chatudp/src/network/UdpSocket.cpp",
+  "file": "/home/nguyenduong/Desktop/chatudp/src/network/UdpSocket.cpp"
+},
+{
+  "directory": "/home/nguyenduong/Desktop/chatudp/build/client",
+  "command": "/usr/bin/g++ -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/nguyenduong/Desktop/chatudp/includes -I/home/nguyenduong/Desktop/chatudp/includes/client -g -std=c++17 -o CMakeFiles/client.dir/__/src/client/TcpUser.cpp.o -c /home/nguyenduong/Desktop/chatudp/src/client/TcpUser.cpp",
+  "file": "/home/nguyenduong/Desktop/chatudp/src/client/TcpUser.cpp"
+},
+{
+  "directory": "/home/nguyenduong/Desktop/chatudp/build/client",
+  "command": "/usr/bin/g++ -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/nguyenduong/Desktop/chatudp/includes -I/home/nguyenduong/Desktop/chatudp/includes/client -g -std=c++17 -o CMakeFiles/client.dir/__/src/client/main.cpp.o -c /home/nguyenduong/Desktop/chatudp/src/client/main.cpp",
+  "file": "/home/nguyenduong/Desktop/chatudp/src/client/main.cpp"
+},
+{
+  "directory": "/home/nguyenduong/Desktop/chatudp/build/server",
+  "command": "/usr/bin/g++ -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/nguyenduong/Desktop/chatudp/includes -I/home/nguyenduong/Desktop/chatudp/includes/server -g -std=c++17 -o CMakeFiles/server.dir/__/src/server/SignalServerAcceptor.cpp.o -c /home/nguyenduong/Desktop/chatudp/src/server/SignalServerAcceptor.cpp",
+  "file": "/home/nguyenduong/Desktop/chatudp/src/server/SignalServerAcceptor.cpp"
+},
+{
+  "directory": "/home/nguyenduong/Desktop/chatudp/build/server",
+  "command": "/usr/bin/g++ -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/nguyenduong/Desktop/chatudp/includes -I/home/nguyenduong/Desktop/chatudp/includes/server -g -std=c++17 -o CMakeFiles/server.dir/__/src/server/SignalServerProtocol.cpp.o -c /home/nguyenduong/Desktop/chatudp/src/server/SignalServerProtocol.cpp",
+  "file": "/home/nguyenduong/Desktop/chatudp/src/server/SignalServerProtocol.cpp"
+},
+{
+  "directory": "/home/nguyenduong/Desktop/chatudp/build/server",
+  "command": "/usr/bin/g++ -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/nguyenduong/Desktop/chatudp/includes -I/home/nguyenduong/Desktop/chatudp/includes/server -g -std=c++17 -o CMakeFiles/server.dir/__/src/server/User.cpp.o -c /home/nguyenduong/Desktop/chatudp/src/server/User.cpp",
+  "file": "/home/nguyenduong/Desktop/chatudp/src/server/User.cpp"
+},
+{
+  "directory": "/home/nguyenduong/Desktop/chatudp/build/server",
+  "command": "/usr/bin/g++ -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/nguyenduong/Desktop/chatudp/includes -I/home/nguyenduong/Desktop/chatudp/includes/server -g -std=c++17 -o CMakeFiles/server.dir/__/src/server/UserManager.cpp.o -c /home/nguyenduong/Desktop/chatudp/src/server/UserManager.cpp",
+  "file": "/home/nguyenduong/Desktop/chatudp/src/server/UserManager.cpp"
+},
+{
+  "directory": "/home/nguyenduong/Desktop/chatudp/build/server",
+  "command": "/usr/bin/g++ -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/nguyenduong/Desktop/chatudp/includes -I/home/nguyenduong/Desktop/chatudp/includes/server -g -std=c++17 -o CMakeFiles/server.dir/__/src/server/main.cpp.o -c /home/nguyenduong/Desktop/chatudp/src/server/main.cpp",
+  "file": "/home/nguyenduong/Desktop/chatudp/src/server/main.cpp"
+}
+]
